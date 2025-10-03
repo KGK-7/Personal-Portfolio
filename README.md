@@ -4,16 +4,16 @@ Welcome to my portfolio website repository! This is a simple, clean, responsive,
 
 ## 🌐 Live Demo
 
-Check out the live version of my portfolio: [Live Demo](#) <!-- Replace with your actual deployed URL -->
+Check out the live version of my portfolio: [Live Demo](https://kgk-web-portfolio.netlify.app/) <!-- Replace with your actual deployed URL -->
 
 ## Features
 
-- 📱 Fully Responsive Design
-- 🎨 Modern and Clean UI
-- 🚀 Smooth Scroll Animations
-- 💼 Project Showcase Section
-- 📄 Downloadable Resume
-- 📱 Mobile-First Approach
+-  Fully Responsive Design
+-  Modern and Clean UI
+-  Smooth Scroll Animations
+-  Project Showcase Section
+-  Downloadable Resume
+-  Mobile-First Approach
 
 ## Built With
 
@@ -73,17 +73,18 @@ portfolio/
 ## Responsive Design
 
 The portfolio is fully responsive and works great on:
-- 📱 Mobile phones
-- 💻 Tablets
-- 🖥️ Desktop screens
+-  Mobile phones
+-  Tablets
+-  Desktop screens
 
 ##  Contact
 
 Feel free to reach out if you have any questions or suggestions:
 
-- GitHub: [@yourusername](#)
-- LinkedIn: [Your Name](#)
-- Email: your.email@example.com
+- GitHub: [@KGK-7](https://github.com/KGK-7)
+- LinkedIn: [Gokula Krishnan K](https://www.linkedin.com/in/gk-linkin)
+- Email: gokulakriskgk@gmail.com
+- Alternate Email : tamilangokul58@gmail.com
 
 ## License
 
