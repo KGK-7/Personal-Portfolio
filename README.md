@@ -6,8 +6,6 @@ Welcome to my portfolio website repository! This is a simple, clean, responsive,
 
 Check out the live version of my portfolio: [Live Demo](#) <!-- Replace with your actual deployed URL -->
 
-![Portfolio Preview](assets/profile.jpg)
-
 ## Features
 
 - 📱 Fully Responsive Design
